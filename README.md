@@ -411,7 +411,7 @@ DispatchQueue.global().async {
 
 ## License
 
-This project is licensed under the same terms as the original captagent project.
+This project is licensed under the MIT License
 
 ## Contributing
 
@@ -437,4 +437,3 @@ For issues and questions:
 - SSL/TLS encryption
 - Payload compression
 - Thread-safe operations
-- 
